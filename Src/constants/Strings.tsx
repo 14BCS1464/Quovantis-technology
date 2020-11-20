@@ -1,5 +1,5 @@
 export default {
-    buttonText:"OPEN  LIST",
+    buttonText:"Approved Food List",
     foodList:"Approved Food List",
     serachHere:"Search Here"
 }
